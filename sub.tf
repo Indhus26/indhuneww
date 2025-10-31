@@ -84,7 +84,7 @@ variable "bucket_name" {
 
   type        = string
 
-  default     = "terraform-demo-bucket-assignment2-138245"
+  default     = "terraform-demo-bucket-assignment33-sindhuuuu15463"
 
 }
 
@@ -107,4 +107,5 @@ variable "environment" {
   default     = "Dev"
 
 }
+
  
