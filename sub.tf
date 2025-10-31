@@ -54,7 +54,7 @@ variable "availability_zone" {
 
   type        = string
 
-  default     = "us-east-1a"
+  default     = "us-east-1"
 
 }
 
@@ -84,7 +84,7 @@ variable "bucket_name" {
 
   type        = string
 
-  default     = "terraform-demo-bucket-assignment33-sindhuuuu15463"
+  default     = "terraform-demo-bucket-assignment3-138154678sindu"
 
 }
 
@@ -94,7 +94,7 @@ variable "bucket_tag_name" {
 
   type        = string
 
-  default     = "Terraform-S3-bucket"
+  default     = "138160-NewBucket"
 
 }
 
@@ -107,5 +107,4 @@ variable "environment" {
   default     = "Dev"
 
 }
-
  
